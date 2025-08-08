@@ -1,5 +1,8 @@
 📌 Ko-Task – Système de Gestion de Projet en Java/JEE
+
+
 📖 Description
+
 Ko-Task est une application web développée en Java/JEE permettant de gérer efficacement les projets, les tâches et la collaboration entre les membres d'une équipe.
 Elle offre un tableau de bord intuitif, un suivi des avancements, un système d’authentification sécurisé et des fonctionnalités adaptées aux environnements professionnels.
 
